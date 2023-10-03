@@ -1,4 +1,4 @@
 # Dev-Resources
 
-##GIT
+## GIT
 [Git Explorer (Help for commands)](https://gitexplorer.com/)
