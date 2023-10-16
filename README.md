@@ -28,6 +28,7 @@
 * [Photopea (Image Editor)](https://www.photopea.com/)
 * [ezgif (Gif Toolset)](https://ezgif.com/)
 * [WebP Offical Site](https://developers.google.com/speed/webp?hl=es-419)
+* [CSS Click path maker](https://bennettfeely.com/clippy/)
 
 ## Fonts
 * [Fallback font generator](https://screenspan.net/fallback/)
