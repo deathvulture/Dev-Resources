@@ -50,3 +50,5 @@
   
 ## Other things 
 * [Can I Use (Browser support tables)](https://caniuse.com/)
+* [JS Fiddle (js and web online editor)](https://jsfiddle.net/)
+* [codesandbox (cloud development environments)](https://codesandbox.io/)
