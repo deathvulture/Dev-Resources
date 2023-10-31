@@ -54,3 +54,4 @@
 * [codesandbox (cloud development environments)](https://codesandbox.io/)
 * [SWC Playground (Javascript Compiler)](https://swc.rs/playground)
 * [Brotli compress](https://facia.dev/tools/compress-decompress/brotli-compress/)
+* [Bundlephobia (npm package size)](https://bundlephobia.com/)
